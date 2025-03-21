@@ -1,0 +1,16 @@
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/FileProcessorApp
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/FileProcessorApp.deps.json
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/FileProcessorApp.runtimeconfig.json
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/FileProcessorApp.dll
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/FileProcessorApp.pdb
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.AssemblyInfo.cs
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.sourcelink.json
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.dll
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/refint/FileProcessorApp.dll
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.pdb
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/FileProcessorApp.genruntimeconfig.cache
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/Debug/net9.0/ref/FileProcessorApp.dll
+/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/bin/Debug/net9.0/Data/test.txt
