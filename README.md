@@ -122,19 +122,7 @@
 - Используется `MSTest`.
 - Проверяет, что шифрование и расшифровка возвращают исходную строку.
 
-**Пример теста:**
-```csharp
-[TestMethod]
-public void EncryptDecrypt_ShouldReturnOriginalText()
-{
-    string originalText = "Пример текста";
-    string encrypted = CryptoUtils.Encrypt(originalText);
-    string decrypted = CryptoUtils.Decrypt(encrypted);
-    Assert.AreEqual(originalText, decrypted);
-}
 
-
----
 
 ## Сборка проекта
 ```bash
