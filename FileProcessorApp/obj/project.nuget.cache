@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WugJdvTWBOY=",
+  "dgSpecHash": "qR7YnsXJpA3/NAcHE5QoiUbXVMFoNptuV375kLgvAJB4s7Xl1B54q1oeP/w/1xj/wPxk6T5R/+rtqi5VSZmX/A==",
   "success": true,
-  "projectFilePath": "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/FileProcessorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\FileProcessorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almaz\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\almaz\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512"
+  ],
   "logs": []
 }

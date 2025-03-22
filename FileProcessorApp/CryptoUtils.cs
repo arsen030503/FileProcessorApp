@@ -4,8 +4,8 @@ using System.Text;
 
 public static class CryptoUtils
 {
-    private static readonly byte[] Key = Encoding.UTF8.GetBytes("ThisIsASecretKey"); // 16, 24 или 32 байта
-    private static readonly byte[] IV = Encoding.UTF8.GetBytes("ThisIsAnIV123456"); // 16 байт
+    private static readonly byte[] Key = Encoding.UTF8.GetBytes("ThisIsASecretKey"); 
+    private static readonly byte[] IV = Encoding.UTF8.GetBytes("ThisIsAnIV123456"); 
 
     public static string Encrypt(string plainText)
     {

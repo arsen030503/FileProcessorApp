@@ -1,30 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/FileProcessorApp.csproj": {}
+    "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\FileProcessorApp.csproj": {}
   },
   "projects": {
-    "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/FileProcessorApp.csproj": {
+    "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\FileProcessorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/FileProcessorApp.csproj",
+        "projectUniqueName": "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\FileProcessorApp.csproj",
         "projectName": "FileProcessorApp",
-        "projectPath": "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/FileProcessorApp.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/RiderProjects/FileProcessorApp/FileProcessorApp/obj/",
+        "projectPath": "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\FileProcessorApp.csproj",
+        "packagesPath": "C:\\Users\\almaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\almaz\\OneDrive\\Рабочий стол\\ShopShirin\\FileProcessorApp\\FileProcessorApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\almaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +44,17 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

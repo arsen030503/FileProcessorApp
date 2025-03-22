@@ -1,0 +1,16 @@
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\FileProcessorApp.exe
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\Data\test.txt
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\FileProcessorApp.deps.json
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\FileProcessorApp.runtimeconfig.json
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\FileProcessorApp.dll
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\bin\Debug\net8.0\FileProcessorApp.pdb
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.AssemblyInfoInputs.cache
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.AssemblyInfo.cs
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.csproj.CoreCompileInputs.cache
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.sourcelink.json
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.dll
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\refint\FileProcessorApp.dll
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.pdb
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\FileProcessorApp.genruntimeconfig.cache
+C:\Users\almaz\OneDrive\Рабочий стол\ShopShirin\FileProcessorApp\FileProcessorApp\obj\Debug\net8.0\ref\FileProcessorApp.dll
